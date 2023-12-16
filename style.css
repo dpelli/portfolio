@@ -22,3 +22,12 @@ body {
     width: 100px;
     margin: 15px;
 }
+.gh-link {
+    width: 50px;
+    margin: 5px;
+}
+ul {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
